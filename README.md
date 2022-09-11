@@ -1,1 +1,1 @@
-To run process you can import lib algs4.jar
+To run process you must import lib algs4.jar
