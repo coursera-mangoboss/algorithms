@@ -1,8 +1,13 @@
-<strong>To run process you must import lib algs4.jar</strong>
-<p><h4>Tasks in Week3 HackerRank:</h4></p>
-<h4><li><a href="https://www.hackerrank.com/challenges/sherlock-and-array/problem">Sherlock And Array</a></li></h4>
-<h4><li><a href="https://www.hackerrank.com/challenges/closest-numbers/problem">Closest Numbers</a></li></h4>
-<h4><li><a href="https://www.hackerrank.com/challenges/pairs/problem">Pairs</a></li></h4>
-<h4><li><a href="https://www.hackerrank.com/challenges/new-year-chaos/problem">New Year Chaos</a></li></h4>
+<h2>To run process you must import lib algs4.jar</h2>
+<h3><p>Train HackerRank:</p></h4>
+
+<h4><li>Week3:</li></h4>
+<h5><ol><a href="https://www.hackerrank.com/challenges/sherlock-and-array/problem">Sherlock And Array</a></ol></h5>
+<h5><ol><a href="https://www.hackerrank.com/challenges/closest-numbers/problem">Closest Numbers</a></ol></h5>
+<h5><ol><a href="https://www.hackerrank.com/challenges/pairs/problem">Pairs</a></ol></h5>
+<h5><ol><a href="https://www.hackerrank.com/challenges/new-year-chaos/problem">New Year Chaos</a></ol></h5>
+
+<h4><li>Week4:</li></h4>
+<h5><ol><a href="https://www.hackerrank.com/domains/data-structures/linked-lists/difficulty/all/page/1">Linked List</a></ol></h5>
 
 
