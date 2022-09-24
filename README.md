@@ -1,4 +1,4 @@
-<h2>To run process you must import lib algs4.jar</h2>
+<h2>Phạm An Đức Vinh - 21020097</h2>
 <h3><p>Train HackerRank:</p></h4>
 
 <h4><li>Week3:</li></h4>
