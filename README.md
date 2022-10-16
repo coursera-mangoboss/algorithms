@@ -4,7 +4,10 @@
 ## Author
 - [Phạm An Đức Vinh](https://www.facebook.com/phamanducvinhuet/)
 
-## Algorithms, Part I
+## Libraries
+- [algs4.jar]()
+
+## [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [PERCOLATION](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php) 
   - Union find
 - [QUEUES](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php) 
@@ -18,7 +21,7 @@
 - [SLIDER PUZZLE](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php)
   - A*
   - Priority Queue
-## Alogrithms, Part II
+## [Alogrithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 - [WORD NET](https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php)
   - DAG
   - BFS
