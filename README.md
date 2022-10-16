@@ -1,10 +1,26 @@
-<h2>Phạm An Đức Vinh - 21020097</h2>
-<h3><ul>Coursera</ul></h4>
-<h5><li><a href="https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php">Percolation</a></li></h5>
-<h5><li><a href="https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php">Deques and Randomized Queues</a></li></h5>
-<h5><li><a href="https://www.coursera.org/learn/algorithms-part1/programming/prXiW/collinear-points">Collinear Points</a></li></h5>
-<h5><li><a href="https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php">8 Puzzle</a></li></h5>
-<h5><li><a href="https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php">WordNet</a></li></h5>
-<h5><li><a href="https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php">Seam Carving</a></li></h5>
+<h1 align="center"><project-name>Data Structures And Algorihms</h1>
+<p align="center"><project-description>Solution coursera</p>
 
+## Author
+- [Phạm An Đức Vinh](https://www.facebook.com/phamanducvinhuet/)
 
+## Algorithms, Part I
+- [PERCOLATION](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php) 
+  - Union find
+- [QUEUES](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php) 
+  - Queue 
+  - Linked List 
+  - Bag
+- [COLLINEAR POINTS](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php)
+  - Sort
+  - Convex Hull
+  - Unique array
+- [SLIDER PUZZLE](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php)
+  - A*
+  - Priority Queue
+## Alogrithms, Part II
+- [WORD NET](https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php)
+  - DAG
+  - BFS
+- [SEAM CARVING](https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php)
+  - DP
