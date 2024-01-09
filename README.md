@@ -1,8 +1,7 @@
-<h1 align="center"><project-name>Data Structures And Algorihms</h1>
-<p align="center"><project-description>Solution coursera</p>
+<h1 align="center"><project-name>Algorihms</h1>
 
 ## Author
-- [Phạm An Đức Vinh](https://www.facebook.com/phamanducvinhuet/)
+- [Phạm An Đức Vinh](https://www.facebook.com/vinhpad/)
 
 ## Libraries
 - [algs4.jar]()
